@@ -2,3 +2,4 @@ eclipse-temurin:17.0.5_8-jre-alpine
 postgis/postgis:17beta2-master
 tdengine/tdengine:3.3.2.0
 ubuntu:20.04
+emqx/emqx:5.8.0
