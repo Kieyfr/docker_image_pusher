@@ -4,3 +4,4 @@ tdengine/tdengine:3.3.2.0
 ubuntu:20.04
 emqx/emqx:5.8.0
 openjdk:17.0.2-oracle
+python:3.13.2
