@@ -8,4 +8,4 @@ python:3.13.2
 mongodb/mongodb-community-server:4.4-ubuntu2004
 grafana/grafana:12.2.0-17282025910
 rustfs/rustfs:1.0.0-alpha.69
-eses/mongodb_exporter
+percona/mongodb_exporter:0.48.0
